@@ -1,5 +1,4 @@
-# Coursera_PML_Proj
-Coursera Practical Machine Learning Project
+# Coursera Practical Machine Learning Project
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
